@@ -1,0 +1,15 @@
+C:\Estudos\dotnet_jogar_dados_jogo\bin\Debug\net8.0\dotnet_jogar_dados_jogo.exe
+C:\Estudos\dotnet_jogar_dados_jogo\bin\Debug\net8.0\dotnet_jogar_dados_jogo.deps.json
+C:\Estudos\dotnet_jogar_dados_jogo\bin\Debug\net8.0\dotnet_jogar_dados_jogo.runtimeconfig.json
+C:\Estudos\dotnet_jogar_dados_jogo\bin\Debug\net8.0\dotnet_jogar_dados_jogo.dll
+C:\Estudos\dotnet_jogar_dados_jogo\bin\Debug\net8.0\dotnet_jogar_dados_jogo.pdb
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\dotnet_jogar_dados_jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\dotnet_jogar_dados_jogo.AssemblyInfoInputs.cache
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\dotnet_jogar_dados_jogo.AssemblyInfo.cs
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\dotnet_jogar_dados_jogo.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\dotnet_jogar_dados_jogo.sourcelink.json
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\dotnet_jogar_dados_jogo.dll
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\refint\dotnet_jogar_dados_jogo.dll
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\dotnet_jogar_dados_jogo.pdb
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\dotnet_jogar_dados_jogo.genruntimeconfig.cache
+C:\Estudos\dotnet_jogar_dados_jogo\obj\Debug\net8.0\ref\dotnet_jogar_dados_jogo.dll
